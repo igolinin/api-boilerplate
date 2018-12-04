@@ -1,0 +1,6 @@
+{
+  "db": {
+    "host": "mongodb://localhost/auth"
+  },
+  "port": 3000
+}

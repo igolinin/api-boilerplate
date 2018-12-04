@@ -1,0 +1,6 @@
+{
+  "db": {
+    "host": "mongodb://localhost/profile"
+  },
+  "port": 3000
+}
